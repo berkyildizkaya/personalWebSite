@@ -1,0 +1,21 @@
+{
+  "name": "firstnodejsapp",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "-",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "BERK YILDIZKAYA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
